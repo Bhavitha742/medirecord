@@ -1,0 +1,6 @@
+{
+  "name": "MediRecord — Patient Medical Records Management System",
+  "description": "A modern, professional healthcare portal designed for authorized physicians to securely locate, manage, and review patient medical histories, lab diagnostic reports, prescriptions, and consent status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
